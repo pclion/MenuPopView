@@ -2,13 +2,11 @@ iPod::Spec.new do |s|
   s.name             = "PCMenuPopView"  
   s.version          = "0.0.1"  
   s.summary          = "A menu pop view used on iOS."  
-  s.description      = <<-DESC  
-                       It is a menu pop view used on iOS, which implement by Objective-C.  
-                       DESC  
+  s.description      = "It is a menu pop view used on iOS, which implement by Objective-C."  
   s.homepage         = "https://github.com/pclion/MenuPopView"  
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"  
   s.license          = 'MIT'  
-  s.author           = { "peichuang" }  
+  s.author           = "peichuang"  
   s.source           = { :git => "https://github.com/pclion/MenuPopView.git", :tag => s.version.to_s }  
   # s.social_media_url = 'https://twitter.com/NAME'  
   
