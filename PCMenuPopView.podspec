@@ -1,4 +1,4 @@
-iPod::Spec.new do |s|  
+Pod::Spec.new do |s|  
   s.name             = "PCMenuPopView"  
   s.version          = "0.0.1"  
   s.summary          = "A menu pop view used on iOS."  
