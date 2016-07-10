@@ -17,7 +17,7 @@ iPod::Spec.new do |s|
   # s.osx.deployment_target = '10.7'  
   s.requires_arc = true  
   
-  s.source_files = 'PCMenuPopView/*'  
+  s.source_files = 'PCMenuPopDemo/PCMenuPopView/*'  
   # s.resources = 'Assets'  
   
   # s.ios.exclude_files = 'Classes/osx'  
